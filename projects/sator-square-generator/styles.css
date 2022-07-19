@@ -1,0 +1,11 @@
+body {
+  
+  background: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  font-size: 3rem;
+  font-family: 'Courier New', Courier, monospace
+
+}
